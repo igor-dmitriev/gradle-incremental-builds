@@ -1,4 +1,6 @@
 rootProject.name = 'gradle-incremental-builds'
 include 'A'
 include 'B'
+include 'A-api'
+include 'B-api'
 
