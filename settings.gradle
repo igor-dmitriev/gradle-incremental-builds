@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-incremental-builds'
+include 'A'
+include 'B'
+
