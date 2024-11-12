@@ -3,6 +3,6 @@ package com.igor;
 public class First {
 
   public void doFirst() {
-    System.out.println("aaa");
+    System.out.println("aa");
   }
 }
